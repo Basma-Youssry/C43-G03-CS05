@@ -3,7 +3,7 @@
     internal class Program
     {
 
-        #region Qu5
+        #region Q5
         //static bool IsPrime(int num)
         //{
         //    if (num <= 1) return false;
@@ -15,7 +15,7 @@
 
         #endregion
 
-        #region Qu6
+        #region Q6
         //static (int, int) MinMaxArray(ref int[]Arr)
         //{
         //    int Min = Arr.Min();
@@ -30,7 +30,7 @@
 
         #endregion
 
-        #region Qu7
+        #region Q7
         //static long Factorial(int n)
         //{
         //    long result = 1;
@@ -50,7 +50,7 @@
 
         #endregion
 
-        #region Qu8
+        #region Q8
         //static void ChangeChar(StringBuilder name)
         //{
         //    name[0] = 'B';
